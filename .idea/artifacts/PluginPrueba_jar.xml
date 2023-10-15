@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PluginPrueba:jar">
+    <output-path>$USER_HOME$/Desktop/Servidor-Prueba/plugins</output-path>
+    <root id="archive" name="PluginPrueba.jar">
+      <element id="module-output" name="PluginPrueba" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+main: pp.Angelostin.PluginPrueba
+version: 1.0.1
+name: PluginPrueba
+author: Angelostin
+api-version: 1.13
+
+commands:
+  pluginprueba:
+    description: Comando principal del Plugin Prueba
+    aliases:
+      - pp
