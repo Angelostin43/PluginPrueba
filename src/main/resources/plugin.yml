@@ -1,5 +1,5 @@
 main: pp.Angelostin.PluginPrueba
-version: 1.0.1
+version: 1.0.2
 name: PluginPrueba
 author: Angelostin
 api-version: 1.13
